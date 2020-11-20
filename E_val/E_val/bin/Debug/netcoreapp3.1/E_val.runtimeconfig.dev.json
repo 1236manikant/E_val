@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Manikant\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Manikant\\.nuget\\packages"
+    ]
+  }
+}
